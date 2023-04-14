@@ -1,0 +1,19 @@
+{
+  "name": "floema",
+  "version": "1.0.0",
+  "description": "creative web design learning",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node test.ts",
+    "build": "",
+    "start": ""
+  },
+  "repository": "https://github.com/jeremiahjacinth13/floema",
+  "author": "Jeremiah Lena",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
